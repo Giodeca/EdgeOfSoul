@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7f4252d08178fa4ca1dbbdec9d4f0cb, type: 3}
+  m_Name: Final
+  m_EditorClassIdentifier: 
+  text: 'Unfortunately, we have been unable to recreate your experiences.   We can
+    only analyze them on another astral plane located in a different dimension. 
+    To assist you, I can only say this: unfortunately, we cannot provide you with
+    the opportunity to use the newly acquired abilities here; we will use them in
+    the other dimension. For now, I have granted you the power of creation. Utilize
+    it to find the correct path. Reach the elevator before the plane turns you into
+    something we never mention in the TTL. Remember, a step into the void can be
+    a success or a failure, but it''s always better to take the risk.   Sincerely, 
+    Dr. Boss  Notes on creating the plane:  For creating cube in this area click
+    E You won''t be able to create them everywhere, only based on your path. Otherwise,
+    use the viewfinder and escape.'

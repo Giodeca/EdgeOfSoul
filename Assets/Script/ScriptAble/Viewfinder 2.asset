@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7f4252d08178fa4ca1dbbdec9d4f0cb, type: 3}
+  m_Name: Viewfinder 2
+  m_EditorClassIdentifier: 
+  text: I must warn you...  Unfortunately, we are beginning to notice problems with
+    the generation of the TTL. Despite our capabilities, we have detected unusual
+    spatiotemporal activity. To continue the journey, we will need to use an emergency
+    code. Find a way to exit using a combination of these platforms.  Sincerely, 
+    Dr. Boss

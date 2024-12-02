@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7f4252d08178fa4ca1dbbdec9d4f0cb, type: 3}
+  m_Name: Tutorial
+  m_EditorClassIdentifier: 
+  text: Welcome,  This is your Temporary Temporal Limbo (TTL).  A TTL is a personalized
+    space where the human soul will traverse its own path based on the life it has
+    led.  Currently, time is at a standstill, and your soul must choose whether to
+    return to its previous state or to reintegrate with the existence of creation. 
+    Please read the provided folders throughout your journey to understand how to
+    proceed.   To move, use the W/A/S/D keys and use the mouse to control the camera.
+    Press N to cover the 'pathing error' and restart the astral level  Sincerely, 
+    Dr. Boss
